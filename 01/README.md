@@ -2,4 +2,4 @@
 # Computer Engineering
 # CSE-102 C-Programming
 
-GNU C 98 Projects 
+GNU GCC C98 Projects 
