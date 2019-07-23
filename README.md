@@ -5,7 +5,6 @@
 
 GNU GCC C98 Projects
 
-
 01 -> First projects.
 
 02 -> Second projects.
