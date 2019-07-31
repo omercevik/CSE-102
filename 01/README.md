@@ -23,4 +23,6 @@ HW 04 P1 -> Padding Elements In Array
 
 HW 04 P2 -> Convolution Operation in Arrays
 
-HW 05 -> Minesweeper Game.c
+HW 05 -> Minesweeper Game
+
+HW 07 -> Escape From Maze Recursively
