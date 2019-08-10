@@ -4,6 +4,11 @@
 
 GNU GCC C Projects
 
+Working Operating System:
+
+        Linux Ubuntu 18.04.3 LTS
+        Terminal Command Line
+
 Assignment 1 -> 2D Area Searching Target with A Detector in C
 
     Compile -> gcc -c assignment_1_omercevik_161044004_Detector_in_2D_Area.c
