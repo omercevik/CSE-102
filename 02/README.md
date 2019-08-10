@@ -6,6 +6,10 @@ GNU GCC C98 Projects
 
 Assignment 1 -> 2D Area Searching Target with A Detector in C
 
+    Compile -> gcc -c assignment_1_omercevik_161044004.c
+               gcc assignment_1_omercevik_161044004.o -o executable
+    Run -> ./executable
+
 Assignment 2 -> Sorting Lines Using Averages of Each Line in C
 
 Assignment 3 -> Finding Words in Puzzle in C
