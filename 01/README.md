@@ -4,6 +4,11 @@
 
 GNU GCC C Projects
 
+Working Operating System:
+
+        Linux Ubuntu 18.04.3 LTS
+        Terminal Command Line
+
 HW 01 P1 -> Remaining Days To Birthday Calculator
 
         Compile -> gcc -c HW_01_P1_Remaining_Days_To_Birthday_Calculator.c
